@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar 7/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Seminar 7/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 6/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar 6/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTS-Tilvan-Madalina-main.iml" filepath="$PROJECT_DIR$/.idea/CTS-Tilvan-Madalina-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 7/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar 7/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 6/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar 6/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 8/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Seminar 8/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 9/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar 9/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 6/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Seminar 6/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar 8/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 1/Seminar 1.iml" filepath="$PROJECT_DIR$/Seminar 1/Seminar 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 10/Seminar 10.iml" filepath="$PROJECT_DIR$/Seminar 10/Seminar 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 2/Seminar 2.iml" filepath="$PROJECT_DIR$/Seminar 2/Seminar 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 6/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar 6/Seminar6/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 6/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar 6/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 9/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar 9/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 9/Template/Template.iml" filepath="$PROJECT_DIR$/Seminar 9/Template/Template.iml" />
+    </modules>
+  </component>
+</project>
